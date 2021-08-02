@@ -1,0 +1,76 @@
+body{
+    background-color: #f0f0f0;
+}
+form {
+    background: #222;
+    max-width: 600px;
+    height: 500px;
+    padding: 1em 1em 1em;
+    margin: 25px auto 0;
+    box-shadow: 0 0 1em #222;
+    border-radius: 2px;
+}
+h1 {
+    margin:0 0 0 0;
+    padding:10px;
+    text-align:center;
+    font-size:35px;
+    color: white;
+    border-bottom:solid 1px #e5e5e5;
+}
+p {
+    margin: 1.5em 1em 1em ;
+    position: relative;
+}
+input {
+    display: block;
+    box-sizing: border-box;
+    width: 60%;
+    margin: auto;
+    text-align:center;
+}
+input[type="submit"] {
+    background-color: white;
+    border-radius: 10px;
+    border: none;
+    color: #222;
+    display: block;
+    font-size: 1.5em;
+    text-shadow: 0 1px #68B25B;
+}
+input[type="text"],
+input[type="password"] {
+    background: #fff;
+    border: 1px solid #dbdbdb;
+    font-size: 0.75em;
+    padding: .8em .5em;
+    border-radius: 2px;
+}
+a{
+    margin-bottom: 200px;
+    font-size: medium;
+    padding: 1em 1em 1em;
+}
+div{
+    float: left;
+     padding: 30px;
+}
+#editDiv{
+    float: left;
+     padding: 30px;
+     line-height: 0;
+}
+#addProduct{
+    background: #222;
+    max-width: 800px;
+    height: 530px;
+    padding: 1em 1em 1em;
+    margin: 25px auto 0;
+    box-shadow: 0 0 1em #222;
+    border-radius: 2px;
+}
+label{
+    color: white;
+    font-size: 12px;
+    align-content: center;
+}

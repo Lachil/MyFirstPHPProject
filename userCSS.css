@@ -1,0 +1,58 @@
+p {
+    font-size: 24px;
+}
+
+div{
+    vertical-align: top;
+}
+
+input{
+    width: 200px;
+    height: 50px;
+    background: white;
+    border: 2px solid black;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+button{
+    background: white;
+    border: 1px solid black;
+    border-radius: 4px;
+    font-size: 24px;
+    padding: 5px;
+}
+
+button:hover{
+    border: 3px solid black;
+}
+
+#edit{
+    display: none;
+}
+
+.container{
+    background-color: white;
+    margin: 25px;
+    border: 1px solid black;
+    padding: 15px;
+    border-radius: 4px;
+}
+
+#foto{
+    border: 1px solid black;
+    height: 300px;
+    width: 200px;
+    margin: 10px;
+    display: inline-block;
+}
+
+#text{
+    margin-left: 30px  ;
+    width: 30%;
+    display: inline-block;
+}
+#extraText{
+    display: inline-block;
+    margin-left: 20px;
+}

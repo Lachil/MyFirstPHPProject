@@ -1,0 +1,29 @@
+
+div.container {
+    text-align: center;
+    padding: 10px 20px;
+}
+img {
+
+    border-radius: 4px;
+    padding: 5px;
+    width: 250px;
+}
+div.col-md-4{
+    width: 33%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.footer {
+    background-color: #222;
+    padding: 10px;
+    text-align: center;
+}
+.btn{
+    text-align: center;
+}
+.center {
+  padding: 70px 0;
+  text-align: center;
+   width: 85%;
+}

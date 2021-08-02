@@ -1,0 +1,85 @@
+p {
+    font-size: 24px;
+}
+
+div{
+    vertical-align: top;
+}
+
+button{
+    background: white;
+    border: 2px solid black;
+    border-radius: 4px;
+    font-size: 22px;
+    padding: 5px;
+}
+
+input{
+    width: 300px;
+    height: 50px;
+    background: white;
+    border: 2px solid black;
+    border-radius: 4px;
+    padding: 5px;
+}
+
+
+.container{
+    background-color: rgb(253, 253, 253);
+    margin: 25px;
+    border: 1px solid black;
+    padding: 15px;
+    border-radius: 4px;
+}
+
+
+#rating span{
+    font-size: 56px;
+    color: rgb(125, 236, 175);
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: rgb(0, 0, 0);
+}
+#rating span:hover{
+    color: #ffc700;
+}
+
+#foto{
+
+    height: 200px;
+    width: 200px;
+    margin: 5px;
+    display: inline-block;
+
+}
+
+#text{
+    margin-left: 30px  ;
+    width: 25%;
+    display: inline-block;
+}
+
+#extraText{
+    display: inline-block;
+    margin-left: 20px;
+}
+
+#comments{
+    margin: 25px;
+    border: 1px solid black;
+    display: inline-block;
+    padding: 15px;
+    color: rgb(28, 4, 241);
+}
+div.col-md-4{
+    width: 33%;
+    background-color: white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  }
+  .clip-star {
+  background: gold;
+  clip-path: polygon(50% 0%, 61% 35%, 98% 35%, 68% 57%, 79% 91%, 50% 70%, 21% 91%, 32% 57%, 2% 35%, 39% 35%);
+  display: inline-block;
+  height: 30px;
+  width: 30px;
+  font-size: 10px;
+}
